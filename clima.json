@@ -1,0 +1,161 @@
+{
+    "query": {
+        "count": 1,
+        "created": "2017-05-18T03:33:48Z",
+        "lang": "en-US",
+        "diagnostics": {
+            "publiclyCallable": "true",
+            "url": {
+                "execution-start-time": "1",
+                "execution-stop-time": "7",
+                "execution-time": "6",
+                "content": "http://weather-ydn-yql.media.yahoo.com:4080/v3/public/weather/rss?w=2502265"
+            },
+            "user-time": "7",
+            "service-time": "6",
+            "build-version": "2.0.118"
+        },
+        "results": {
+            "channel": {
+                "units": {
+                    "distance": "mi",
+                    "pressure": "in",
+                    "speed": "mph",
+                    "temperature": "F"
+                },
+                "title": "Yahoo! Weather - Sunnyvale, CA, US",
+                "link": "http://us.rd.yahoo.com/dailynews/rss/weather/Country__Country/*https://weather.yahoo.com/country/state/city-2502265/",
+                "description": "Yahoo! Weather for Sunnyvale, CA, US",
+                "language": "en-us",
+                "lastBuildDate": "Wed, 17 May 2017 08:33 PM PDT",
+                "ttl": "60",
+                "location": {
+                    "city": "Sunnyvale",
+                    "country": "United States",
+                    "region": " CA"
+                },
+                "wind": {
+                    "chill": "64",
+                    "direction": "300",
+                    "speed": "14"
+                },
+                "atmosphere": {
+                    "humidity": "47",
+                    "pressure": "1007.0",
+                    "rising": "0",
+                    "visibility": "16.1"
+                },
+                "astronomy": {
+                    "sunrise": "5:58 am",
+                    "sunset": "8:12 pm"
+                },
+                "image": {
+                    "title": "Yahoo! Weather",
+                    "width": "142",
+                    "height": "18",
+                    "link": "http://weather.yahoo.com",
+                    "url": "http://l.yimg.com/a/i/brand/purplelogo//uh/us/news-wea.gif"
+                },
+                "item": {
+                    "title": "Conditions for Sunnyvale, CA, US at 07:00 PM PDT",
+                    "lat": "37.371609",
+                    "long": "-122.038254",
+                    "link": "http://us.rd.yahoo.com/dailynews/rss/weather/Country__Country/*https://weather.yahoo.com/country/state/city-2502265/",
+                    "pubDate": "Wed, 17 May 2017 07:00 PM PDT",
+                    "condition": {
+                        "code": "32",
+                        "date": "Wed, 17 May 2017 07:00 PM PDT",
+                        "temp": "65",
+                        "text": "Sunny"
+                    },
+                    "forecast": [
+                                 {
+                                 "code": "34",
+                                 "date": "17 May 2017",
+                                 "day": "Wed",
+                                 "high": "71",
+                                 "low": "52",
+                                 "text": "Mostly Sunny"
+                                 },
+                                 {
+                                 "code": "32",
+                                 "date": "18 May 2017",
+                                 "day": "Thu",
+                                 "high": "79",
+                                 "low": "50",
+                                 "text": "Sunny"
+                                 },
+                                 {
+                                 "code": "32",
+                                 "date": "19 May 2017",
+                                 "day": "Fri",
+                                 "high": "86",
+                                 "low": "56",
+                                 "text": "Sunny"
+                                 },
+                                 {
+                                 "code": "32",
+                                 "date": "20 May 2017",
+                                 "day": "Sat",
+                                 "high": "91",
+                                 "low": "58",
+                                 "text": "Sunny"
+                                 },
+                                 {
+                                 "code": "32",
+                                 "date": "21 May 2017",
+                                 "day": "Sun",
+                                 "high": "91",
+                                 "low": "62",
+                                 "text": "Sunny"
+                                 },
+                                 {
+                                 "code": "34",
+                                 "date": "22 May 2017",
+                                 "day": "Mon",
+                                 "high": "87",
+                                 "low": "59",
+                                 "text": "Mostly Sunny"
+                                 },
+                                 {
+                                 "code": "30",
+                                 "date": "23 May 2017",
+                                 "day": "Tue",
+                                 "high": "81",
+                                 "low": "57",
+                                 "text": "Partly Cloudy"
+                                 },
+                                 {
+                                 "code": "30",
+                                 "date": "24 May 2017",
+                                 "day": "Wed",
+                                 "high": "77",
+                                 "low": "57",
+                                 "text": "Partly Cloudy"
+                                 },
+                                 {
+                                 "code": "30",
+                                 "date": "25 May 2017",
+                                 "day": "Thu",
+                                 "high": "76",
+                                 "low": "55",
+                                 "text": "Partly Cloudy"
+                                 },
+                                 {
+                                 "code": "30",
+                                 "date": "26 May 2017",
+                                 "day": "Fri",
+                                 "high": "75",
+                                 "low": "54",
+                                 "text": "Partly Cloudy"
+                                 }
+                                 ],
+                    "description": "<![CDATA[<img src=\"http://l.yimg.com/a/i/us/we/52/32.gif\"/>\n<BR />\n<b>Current Conditions:</b>\n<BR />Sunny\n<BR />\n<BR />\n<b>Forecast:</b>\n<BR /> Wed - Mostly Sunny. High: 71Low: 52\n<BR /> Thu - Sunny. High: 79Low: 50\n<BR /> Fri - Sunny. High: 86Low: 56\n<BR /> Sat - Sunny. High: 91Low: 58\n<BR /> Sun - Sunny. High: 91Low: 62\n<BR />\n<BR />\n<a href=\"http://us.rd.yahoo.com/dailynews/rss/weather/Country__Country/*https://weather.yahoo.com/country/state/city-2502265/\">Full Forecast at Yahoo! Weather</a>\n<BR />\n<BR />\n(provided by <a href=\"http://www.weather.com\" >The Weather Channel</a>)\n<BR />\n]]>",
+                    "guid": {
+                        "isPermaLink": "false"
+                    }
+                }
+            }
+        }
+    }
+}
