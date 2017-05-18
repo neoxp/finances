@@ -1,6 +1,32 @@
 {
-    "type": "MultiPolygon",
-    "coordinates": [
-        
-    ]
+ "query": {
+  "count": 1,
+  "created": "2017-05-18T03:41:40Z",
+  "lang": "en-US",
+  "diagnostics": {
+   "publiclyCallable": "true",
+   "user-time": "2",
+   "service-time": "0",
+   "build-version": "2.0.118"
+  },
+  "results": {
+   "table": {
+    "hash": "a8196c4d279e0e28fb671a81b9a40bd3",
+    "name": "pm.finance",
+    "security": "APP",
+    "meta": {
+     "sampleQuery": "\n\t\t\tselect * from pm.finance where symbol=\"YHOO\"\n        "
+    },
+    "request": {
+     "select": {
+      "key": {
+       "name": "symbol",
+       "required": "true",
+       "type": "xs:string"
+      }
+     }
+    }
+   }
+  }
+ }
 }
